@@ -1,0 +1,12 @@
+{
+  "name": "rpa-python",
+  "version": "1.0.0",
+  "description": "Automatización de procesos robóticos",
+  "main": "main.py",
+  "author": "Abel Suárez",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "start": "python main.py"
+  }
+}
